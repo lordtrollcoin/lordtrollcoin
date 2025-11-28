@@ -1,0 +1,12 @@
+﻿[Desktop Entry]
+Name=LORDTROLLCOIN Core
+Comment=Connect to the LORDTROLLCOIN P2P Network
+Comment[de]=Verbinde mit dem LORDTROLLCOIN peer-to-peer Netzwerk
+Comment[fr]=LORDTROLLCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LORDTROLLCOIN, eşten eşe kriptografik sanal para birimi
+Exec=LORDTROLLCOIN-qt %u
+Terminal=false
+Type=Application
+Icon=LORDTROLLCOIN128
+MimeType=x-scheme-handler/LORDTROLLCOIN;
+Categories=Office;Finance;

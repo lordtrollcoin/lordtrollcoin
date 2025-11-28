@@ -1,0 +1,11 @@
+﻿[Protocol]
+exec=LORDTROLLCOIN-qt '%u'
+protocol=LORDTROLLCOIN
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
